@@ -1,0 +1,23 @@
+.TagLi {
+  margin: 10px;
+}
+
+.TagLiBtn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: transparent;
+  color: #f1f5f9;
+  font-weight: bold;
+  cursor: pointer;
+  outline: none;
+  height: 30px;
+  padding: 10px;
+  border-radius: 20px;
+  border: 1px solid #f3aa4e;
+}
+
+.TagLiBtnActive {
+  background-color: #f3aa4e;
+}
